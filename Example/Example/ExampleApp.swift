@@ -1,9 +1,4 @@
-//
-//  ExampleApp.swift
-//  Example
-//
-//  Created by woody on 2022/12/09.
-//
+//  Copyright © 2022 PRND. All rights reserved.
 
 import SwiftUI
 

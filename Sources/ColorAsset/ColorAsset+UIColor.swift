@@ -1,9 +1,4 @@
-//
-//  ColorAsset+UIColor.swift
-//  
-//
-//  Created by 김태완 on 2022/02/04.
-//
+//  Copyright © 2022 PRND. All rights reserved.
 
 #if canImport(UIKit)
 import UIKit

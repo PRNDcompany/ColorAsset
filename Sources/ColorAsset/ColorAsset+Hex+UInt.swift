@@ -1,9 +1,4 @@
-//
-//  ColorAsset+Hex+UInt.swift
-//  
-//
-//  Created by 김태완 on 2022/02/04.
-//  https://github.com/100mango/SwiftCssParser
+//  Copyright © 2022 PRND. All rights reserved.
 
 import Foundation
 
