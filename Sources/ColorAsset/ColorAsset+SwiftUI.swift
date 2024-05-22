@@ -1,9 +1,4 @@
-//
-//  ColorAsset+SwiftUI.swift
-//  
-//
-//  Created by PRND on 2021/07/28.
-//
+//  Copyright © 2021 PRND. All rights reserved.
 
 import SwiftUI
 

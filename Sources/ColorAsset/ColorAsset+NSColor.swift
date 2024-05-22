@@ -1,9 +1,4 @@
-//
-//  ColorAsset+NSColor.swift
-//  
-//
-//  Created by woody on 2022/10/26.
-//
+//  Copyright © 2022 PRND. All rights reserved.
 
 #if canImport(AppKit) && !targetEnvironment(macCatalyst)
 import AppKit
