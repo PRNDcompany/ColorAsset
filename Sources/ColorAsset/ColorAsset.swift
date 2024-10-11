@@ -26,7 +26,7 @@ public struct ColorAsset: Equatable, Hashable {
         self._alpha = alpha
     }
     
-    public init(named: String, bundle: Bundle?, alpha: Double) {
+    public init(named: String, bundle: Bundle?, alpha: Double? = nil) {
         self.colorType = .asset(named: named, bundle: bundle)
         self._alpha = alpha
     }
