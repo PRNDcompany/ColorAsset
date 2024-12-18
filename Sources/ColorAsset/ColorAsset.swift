@@ -3,7 +3,7 @@
 import Foundation
 
 
-public struct ColorAsset: Equatable, Hashable {
+public struct ColorAsset: Equatable, Hashable, Sendable {
     public var red: Double {
         colorType.components.red
     }
